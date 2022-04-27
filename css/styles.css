@@ -1,0 +1,19 @@
+body {
+  background-color: #EEEEEE;
+}
+
+hr{
+  border-style: none; /*Sets Horizontal Rule border to 'none' default */
+  border-top-style: dotted; /* Specifies HR top border to dotted */
+  /*height: 0px; Specifies height as 0 pixels */
+  width: 5%; /*Specifies width to 5% of page */
+  border-width: 5px; /*Specifies dots to 5px in size */
+  border-color: #00ADB5; /*Specifies dot color */
+}
+
+h1 {
+  color: #393E46;
+}
+h3 {
+  color: #222831
+}
